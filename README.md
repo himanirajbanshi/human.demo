@@ -1,2 +1,3 @@
-# human.demo
-thesis my first git repository.
+# himani.demo
+this my first git repository.
+Author - Himani Rajbanshi
